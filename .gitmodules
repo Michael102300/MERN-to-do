@@ -1,3 +1,6 @@
 [submodule "frontend2"]
 	path = frontend2
 	url = https://github.com/Michael102300/MERN-to-do.git
+[submodule "Fronted"]
+	path = Fronted
+	url = https://github.com/Michael102300/frontend-MERN
